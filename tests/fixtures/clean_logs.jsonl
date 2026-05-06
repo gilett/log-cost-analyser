@@ -1,0 +1,5 @@
+{"timestamp": "2026-05-06T10:00:01Z", "severity": "INFO", "service": "auth-service", "message": "User login successful", "user_id": "u-123"}
+{"timestamp": "2026-05-06T10:00:02Z", "severity": "ERROR", "service": "payment-api", "message": "Payment timeout", "trace_id": "t-456"}
+{"timestamp": "2026-05-06T10:00:03Z", "severity": "DEBUG", "service": "payment-api", "message": "Cache miss for key xyz", "cache_key": "xyz"}
+{"timestamp": "2026-05-06T10:00:04Z", "severity": "INFO", "service": "auth-service", "message": "Token refreshed", "user_id": "u-789"}
+{"timestamp": "2026-05-06T10:00:05Z", "severity": "WARN", "service": "order-service", "message": "Slow query detected", "duration_ms": 2450}

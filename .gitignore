@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+.venv/
+venv/
+*.jsonl
+!tests/fixtures/*.jsonl
+scratchpad.py
+*scratchpad.py

@@ -13,3 +13,6 @@ def load_jsonl(filepath: Path) -> list[dict]:
             if line:
                 logs.append(json.loads(line))
     return logs
+
+def load_directory(dirpath: Path) -> list[dict]:
+    pass

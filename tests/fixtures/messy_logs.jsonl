@@ -1,0 +1,5 @@
+{"timestamp": "2026-05-06T10:00:01Z", "severity": "INFO", "service": "api", "message": "Good line"}
+
+   
+{broken json here
+{"timestamp": "2026-05-06T10:00:02Z", "severity": "WARN", "service": "api", "message": "Another good line"}
